@@ -16,15 +16,9 @@
     </a>
   </div>
 
- 
+
 </div>
 
- <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lightClouds917/lightClouds917/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lightClouds917/lightClouds917/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/lightClouds917/lightClouds917/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
 
 <!--
 [![Chuntaojun's github stats](https://github-readme-stats.vercel.app/api?username=lightClouds917)](http://java4all.cn/)
