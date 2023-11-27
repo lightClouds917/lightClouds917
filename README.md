@@ -15,8 +15,16 @@
       <img src="https://stats.justsong.cn/api/csdn?id=weixin_39800144&hide=html,thrift&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
     </a>
   </div>
+
+ 
 </div>
 
+ <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lightClouds917/lightClouds917/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lightClouds917/lightClouds917/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/lightClouds917/lightClouds917/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 
 <!--
 [![Chuntaojun's github stats](https://github-readme-stats.vercel.app/api?username=lightClouds917)](http://java4all.cn/)
