@@ -1,6 +1,11 @@
 ### 🌱 Welcome to my github 🌱 
 [![Chuntaojun's github stats](https://github-readme-stats.vercel.app/api?username=lightClouds917)](http://java4all.cn/)
 
+<a href="#" style="cursor: default;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightClouds917&hide=html,thrift" />
+</a>
+
+
 <!--
 **lightClouds917/lightClouds917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
