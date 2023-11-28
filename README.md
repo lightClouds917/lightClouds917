@@ -6,23 +6,26 @@
     <a href="http://java4all.cn/" style="text-decoration: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=lightClouds917&show_icons=true&hide_border=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
     </a>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <a href="#" style="cursor: default; text-decoration: none;">
+     <a href="#" style="cursor: default; text-decoration: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightClouds917&hide=html,thrift&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="margin-right: 10px;">
     </a>
-    <a href="#" style="cursor: default; text-decoration: none;">
+     <a href="#" style="cursor: default; text-decoration: none;">
       <img src="https://stats.justsong.cn/api/csdn?id=weixin_39800144&hide=html,thrift&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
     </a>
   </div>
+  
 
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=lightClouds917&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
+
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/lightClouds917/lightClouds917/output/github-contribution-grid-snake-dark.svg" />
+</div>
  
 </div>
     
-![](https://raw.githubusercontent.com/lightClouds917/lightClouds917/output/github-contribution-grid-snake-dark.svg)             
+       
 <!--
 [![Chuntaojun's github stats](https://github-readme-stats.vercel.app/api?username=lightClouds917)](http://java4all.cn/)
 <a href="http://java4all.cn/">
