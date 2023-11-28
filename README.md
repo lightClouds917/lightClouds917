@@ -4,14 +4,14 @@
 <div style="display: flex; align-items: center;">
   <div style="display: flex; align-items: center; margin-right: 10px;">
       <a href="http://java4all.cn/" style="text-decoration: none;">
-        <img width='390px' src="https://github-readme-stats.vercel.app/api?username=lightClouds917&show_icons=true&hide_border=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
+        <img width='340px' src="https://github-readme-stats.vercel.app/api?username=lightClouds917&show_icons=true&hide_border=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
       </a>
       <a href="http://java4all.cn/" style="cursor: default; text-decoration: none;">
-        <img width='250px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightClouds917&hide=html,thrift&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
+        <img width='210px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightClouds917&hide=html,thrift&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
       </a>
     </span>
       <a href="https://it4all.blog.csdn.net/" style="cursor: default; text-decoration: none;">
-        <img style='width: 360px' src="https://stats.justsong.cn/api/csdn?id=weixin_39800144&hide=html,thrift&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
+        <img style='width: 280px' src="https://stats.justsong.cn/api/csdn?id=weixin_39800144&hide=html,thrift&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
       </a>
   </div>
   
@@ -39,6 +39,8 @@
    <img src="https://stats.justsong.cn/api/csdn?id=weixin_39800144&hide=html,thrift&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
 </a>
 
+
+
 **lightClouds917/lightClouds917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -51,4 +53,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--- >
+-->
