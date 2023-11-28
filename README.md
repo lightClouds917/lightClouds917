@@ -16,6 +16,9 @@
     </a>
   </div>
 
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=lightClouds917&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
  
 </div>
     
