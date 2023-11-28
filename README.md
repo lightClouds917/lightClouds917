@@ -1,5 +1,12 @@
 
 <div style="display: flex; align-items: center;">
+    <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="java4all.cn/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=路虽远，行则将至&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+  
   <div style="display: flex; align-items: center; margin-right: 10px;">
       <a href="http://java4all.cn/" style="text-decoration: none;">
         <img width='340px' src="https://github-readme-stats.vercel.app/api?username=lightClouds917&show_icons=true&hide_border=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
